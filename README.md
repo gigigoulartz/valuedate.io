@@ -1,2 +1,2 @@
 # valuedate.io
-ValueDate.io - English for Coders Repo
+ValueDate.io - English for Coders Repository
